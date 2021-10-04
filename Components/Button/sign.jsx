@@ -2,7 +2,7 @@ import { Button } from "antd";
 import styled from "styled-components";
 
 export const SimpleStyledButton = styled(Button)`
-  padding: 5px;
+  padding: 6px;
   text-align: center;
   width: auto;
   font-weight: bold;
